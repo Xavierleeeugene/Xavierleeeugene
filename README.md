@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,django,java,html,css,js,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,java,html,css,js,github&perline=14" />
   </a>
 </p>
 
@@ -27,12 +27,28 @@
   </h2>
 </div>
 
+<div class="container", align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavierleeeugene&show_icons=true&theme=tokyonight" alt="Xavier's GitHub Stats">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xavierleeeugene&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=5" alt="Xavier's Language Stats">
+</div>
+  
+
 #
 
 <div align="center">
   <h2>
     What I am Currently Working On
   </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Xavierleeeugene/Trading_Strategies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavierleeeugene&repo=Trading_Strategies&theme=tokyonight" />
+  </a>
+<!--   For Future Reference -->
+<!--   <a href="https://github.com/Xavierleeeugene/Trading_Strategies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavierleeeugene&repo=Trading_Strategies&theme=tokyonight" />
+  </a> -->
 </div>
 
 #
