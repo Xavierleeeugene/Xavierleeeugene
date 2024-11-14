@@ -45,6 +45,9 @@
   <a href="https://github.com/Xavierleeeugene/Trading_Strategies">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavierleeeugene&repo=Trading_Strategies&theme=tokyonight" />
   </a>
+  < a href="https://github.com/Xavierleeeugene/Python_Telegram_Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavierleeeugene&repo=Python_Telegram_Bot&theme=tokyonight" />
+  </a>
 <!--   For Future Reference -->
 <!--   <a href="https://github.com/Xavierleeeugene/Trading_Strategies">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavierleeeugene&repo=Trading_Strategies&theme=tokyonight" />
